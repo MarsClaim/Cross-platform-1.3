@@ -1,6 +1,6 @@
 # cross-platform-1.3
 
-https://github.com/MarsClaim/cross-platform-1.3/issues/1
+https://github.com/MarsClaim/cross-platform-1.3/issues/1 <-click to see details
 
 As in every software project, it must get tested about all aspects in order really know what is being done, being this said, it is tended to be carried out tests in which can be proved the functionality of such implemented characteristics, being this possible through some useful tools as it is the IDE Intellij, SQL Shell.
 
